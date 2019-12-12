@@ -1,4 +1,5 @@
 # Intro to Web Development Challenge
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/intro-html-demo)
 
 <h2>Goal: To make a simple portfolio webpage</h2>
 
@@ -22,5 +23,3 @@ Helpful resources to check out if you get stuck:<br>
     - Give your list items a class of "list-item" and change the background-color
 3. <b>Make your page interactive using Javascript</b>
     - Add an alert that greets the user when they go to your page
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/intro-html-demo)
