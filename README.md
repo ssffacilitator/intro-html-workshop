@@ -1,6 +1,6 @@
 # Intro to Web Development Challenge
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/intro-html-demo)<br>
-<br>
+[Example of Finished Webpage](https://intro-html-finished.stackblitz.io)<br>
 <h2>Goal: To make a simple portfolio webpage</h2>
 
 Helpful resources to check out if you get stuck:<br>
